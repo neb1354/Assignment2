@@ -1,0 +1,144 @@
+/*!
+ * Start Bootstrap - Shop Homepage HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+body {
+  padding-top: 70px;
+  /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+  background: -webkit-linear-gradient(#212121, #606060);
+  /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#212121, #606060);
+  /* For Opera 11.6 to 12.0 */
+  background: -moz-linear-gradient(#212121, #606060);
+  /* For Fx 3.6 to 15 */
+  background: linear-gradient(#212121, #606060);
+  /* Standard syntax (must be last) */
+  background-color: #212121;
+}
+
+.slide-image {
+  width: 100%;
+}
+
+.carousel-holder {
+  margin-bottom: 30px;
+}
+
+.carousel-control,
+.item {
+  border-radius: 4px;
+}
+
+.caption {
+  height: 50px;
+  overflow: hidden;
+}
+
+.caption h4 {
+  white-space: nowrap;
+}
+
+.thumbnail img {
+  width: 100%;
+}
+
+.ratings {
+  padding-right: 10px;
+  padding-left: 10px;
+  color: #d17581;
+  height: 35px;
+}
+
+.thumbnail {
+  padding: 10px;
+  height: 400px;
+}
+
+.thumbnail .caption-full {
+  padding: 9px;
+  color: #333;
+}
+
+footer {
+  margin: 50px 0;
+  color: #A8A8A8;
+}
+
+.col-md-3 {
+  background-color: transparent;
+  color: #A8A8A8;
+  border: none;
+}
+
+h2 {
+  color: #A8A8A8;
+}
+
+.title {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+a {
+  color: #A8A8A8;
+}
+
+.modal-header, .close {
+  background-color: #212121;
+  color: #A8A8A8;
+  text-align: center;
+  font-size: 30px;
+}
+
+.modal-footer {
+  background-color: #212121;
+  color: #A8A8A8;
+}
+
+.modal-body {
+  background-color: #212121;
+  color: #A8A8A8;
+}
+
+.modal-button {
+  background-color: #A8A8A8;
+  color: #212121;
+}
+
+.button {
+  height: 50px;
+  width: 75px;
+  background-color: #212121;
+  color: #A8A8A8;
+  text-align: center;
+  border: none;
+}
+
+.table {
+  width: 75%;
+  color: #A8A8A8;
+  margin: auto;
+}
+
+.row {
+  background-color: transparent;
+  color: #A8A8A8;
+}
+
+.list-group-item {
+  background-color: #A8A8A8;
+  border: none;
+  color: #212121;
+}
+
+.button2 {
+  height: 50px;
+  width: 150px;
+  background-color: #212121;
+  color: #A8A8A8;
+  text-align: center;
+  border: none;
+  margin-top: -15px;
+  margin-left: -3%;
+}
